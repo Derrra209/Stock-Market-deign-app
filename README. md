@@ -11,19 +11,22 @@ Designed with **Figma**, this project demonstrates both UI/UX design skills and 
 - 📰 Latest market news feed  
 - 🎨 Clean and user-friendly design  
 
----
-
 ## 📷 Screenshots
 
-### Home Screen
-![Home Screen](./screenshots/home.png)
+### Sign Up Screen
+![Sign Up Screen](./screenshots/Sign up screen.png)
 
 ### Portfolio Screen
-![Portfolio Screen](./screenshots/portfolio.png)
+![Portfolio Screen](./screenshots/Portfolio screen.png)
 
-*(Add more screenshots by exporting from Figma and placing them inside the `/screenshots` folder.)*
+### Stock Detail Screen
+![Stock Detail Screen](./screenshots/Stock detail screen.png)
 
----
+### News Screen
+![News Screen](./screenshots/News screen.png)
+
+### Pro Screen
+![Pro Screen](./screenshots/Pro screen.png)
 
 ## 🛠️ Tech Stack
 - **Figma** (UI/UX design)  
