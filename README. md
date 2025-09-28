@@ -1,0 +1,49 @@
+# 📈 Stock Market App (Prototype)
+
+A mobile app prototype that helps users track stock prices, manage portfolios, and stay updated with market news.  
+Designed with **Figma**, this project demonstrates both UI/UX design skills and planning for future mobile development.
+
+---
+
+## ✨ Features
+- 🔍 Real-time stock price tracking  
+- 📊 Portfolio management  
+- 📰 Latest market news feed  
+- 🎨 Clean and user-friendly design  
+
+---
+
+## 📷 Screenshots
+
+### Home Screen
+![Home Screen](./screenshots/home.png)
+
+### Portfolio Screen
+![Portfolio Screen](./screenshots/portfolio.png)
+
+*(Add more screenshots by exporting from Figma and placing them inside the `/screenshots` folder.)*
+
+---
+
+## 🛠️ Tech Stack
+- **Figma** (UI/UX design)  
+- **Planned Development:** React Native (frontend), Firebase (backend), Stock Market API (data source)  
+
+---
+
+## 🚀 Try It Out
+🔗 View the interactive prototype here: [Figma Link](https://www.figma.com/proto/ekEwgB6gNlCHw7HApI9BNx/Untitled?node-id=0-1&t=JtXtr5a87sO3ywEI-1)
+
+---
+
+## 📚 What I Learned
+- UI/UX design principles  
+- Structuring an app for financial data  
+- Planning mobile app features for future implementation  
+
+---
+
+## 👨‍💻 Author
+**Ifionu Chidera Miracle**  
+- 🌐 [GitHub](https://github.com/Derrra209)  
+- 💼 [LinkedIn](https://linkedin.com/in/chidera-ifionu)
