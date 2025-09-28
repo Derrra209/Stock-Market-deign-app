@@ -1,52 +1,50 @@
-# 📈 Stock Market App (Prototype)
+📈 Stock Market App (Prototype)
 
 A mobile app prototype that helps users track stock prices, manage portfolios, and stay updated with market news.  
-Designed with **Figma**, this project demonstrates both UI/UX design skills and planning for future mobile development.
+Designed with Figma, this project demonstrates both UI/UX design skills and planning for future mobile development.
 
----
-
-## ✨ Features
+• Features
 - 🔍 Real-time stock price tracking  
 - 📊 Portfolio management  
 - 📰 Latest market news feed  
 - 🎨 Clean and user-friendly design  
 
-## 📷 Screenshots
+ •Screenshots
 
-### Sign Up Screen
+Sign Up Screen
 ![Sign Up Screen](./screenshots/Sign up screen.png)
 
-### Portfolio Screen
+ Portfolio Screen
 ![Portfolio Screen](./screenshots/Portfolio screen.png)
 
-### Stock Detail Screen
+Stock Detail Screen
 ![Stock Detail Screen](./screenshots/Stock detail screen.png)
 
-### News Screen
+News Screen
 ![News Screen](./screenshots/News screen.png)
 
-### Pro Screen
+Pro Screen
 ![Pro Screen](./screenshots/Pro screen.png)
 
-## 🛠️ Tech Stack
-- **Figma** (UI/UX design)  
-- **Planned Development:** React Native (frontend), Firebase (backend), Stock Market API (data source)  
+ Tech Stack
+•	Figma – UI/UX design and prototyping
+	•	Planned Development:
+	•	React Native – mobile app frontend
+	•	Firebase – backend and authentication
+	•	Stock Market API – real-time stock data
 
----
-
-## 🚀 Try It Out
+- Try It Out
 🔗 View the interactive prototype here: [Figma Link](https://www.figma.com/proto/ekEwgB6gNlCHw7HApI9BNx/Untitled?node-id=0-1&t=JtXtr5a87sO3ywEI-1)
 
----
 
-## 📚 What I Learned
-- UI/UX design principles  
-- Structuring an app for financial data  
-- Planning mobile app features for future implementation  
+📚 What I Learned
+	•	UI/UX Design Principles – Learned how to structure screens, design a clean interface, and create a smooth user flow for a mobile app.
+	•	App Feature Planning – Practiced breaking down an app idea into functional features like portfolio tracking, stock details, and news feeds.
+	•	Figma Skills – Improved proficiency in Figma, including frames, prototyping, exporting assets, and linking screens.
+	•	Project Presentation – Learned how to document a project clearly on GitHub with README, screenshots, and external prototype links.
+	•	Portfolio Building – Gained experience creating a professional portfolio-ready project that can be shared with recruiters.
 
----
-
-## 👨‍💻 Author
-**Ifionu Chidera Miracle**  
+👨‍💻 Author
+-Ifionu Chidera Miracle  
 - 🌐 [GitHub](https://github.com/Derrra209)  
 - 💼 [LinkedIn](https://linkedin.com/in/chidera-ifionu)
